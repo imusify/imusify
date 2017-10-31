@@ -1,10 +1,28 @@
 
+
+We are looking for the following expertise:
+
+Legal (especially Blockchain, Crypto, ICO)
+Tax Advising (especially Blockchain, Crypto, ICO)
+Marketers (especially Blockchain, Crypto, ICO)
+All other expertise are welcome. 
+
+
 How to contribute
 
 Third-party patches are essential for keeping imusify great. We want to keep it as easy as possible to contribute changes that get things working in your environment. There are a few guidelines that we need contributors to follow so that we can have a chance of keeping on top of things.
 
 
 Getting Started
+
+Anybody can contribute. Be creative.  
+Work must be done first. 
+Tasks and Issues can be found at https://github.com/imusify/imusify/issues
+The best work will be rewarded generously. 
+All Payments are made in $ IMU. You can see amount of rewards for the task within the issue. If there is no existing issue, you can create a new issue with an offer. 
+If you find a bug please fix and let us know. 
+Rewards will be paid out after committed and approved by imusify.
+
 
 Make sure you have a GitHub account.
 Submit a ticket for your issue, assuming one does not already exist.
